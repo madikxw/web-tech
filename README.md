@@ -1,5 +1,6 @@
 # Assignment #1 — HTML & CSS Basics
 
+
 ## Student Information
 
 **Name:** Bissentayev Madiyar  
@@ -8,6 +9,13 @@
 
 
 ## Project Structure
+<img width="1462" height="747" alt="Screenshot 2026-09-16 at 16 06 57" src="https://github.com/user-attachments/assets/98b825fa-f2ec-482c-aa10-99ffb306a6fd" />
+<img width="1469" height="718" alt="Screenshot 2026-09-16 at 16 07 15" src="https://github.com/user-attachments/assets/18d1ec6f-931f-462e-a95d-53723b5ada66" />
+<img width="1470" height="732" alt="Screenshot 2026-09-16 at 16 07 36" src="https://github.com/user-attachments/assets/5e81592d-add5-4a84-ae3d-0d2af04b4b26" />
+<img width="1432" height="693" alt="Screenshot 2026-09-16 at 16 07 50" src="https://github.com/user-attachments/assets/0e143023-e0d0-4bc1-9ba1-302bb5527c08" />
+
+
+
 
 ```text
 web-tech/
