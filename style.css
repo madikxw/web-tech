@@ -1,0 +1,258 @@
+
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 2rem;
+}
+
+
+h2 {
+    font-size: 1.5em;
+}
+
+
+p {
+    color: #334155;
+    font-family: Arial, sans-serif;
+}
+
+
+
+.highlight {
+    color: #7c2d12;
+    background-color: #fef3c7;
+    font-family: Georgia, serif;
+    padding: 8px;
+}
+
+
+
+#main-heading {
+    color: #eff1f3;
+    font-family: Verdana, sans-serif;
+    font-size:4 0px;
+    
+}
+
+
+
+
+.header {
+    background-color: #0f4c81;
+    color: white;
+    text-align: center;
+    padding: 25px;
+
+
+}
+
+
+
+
+.main-content {
+    background-color: white;
+
+    width: 90%;
+
+    margin: 20px auto;
+
+    padding: 25px;
+}
+
+
+
+.footer {
+    background-color: #334155;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 15px;
+}
+
+
+
+
+.box-model {
+    background-color: #dbeafe;
+
+    border: 2px dotted #0f4c81;
+
+    padding: 20px;
+
+    margin: 20px 0;
+}
+
+
+
+.position-area {
+    position: relative;
+
+    height: 180px;
+
+    border: 2px dashed #94a3b8;
+
+    padding: 15px;
+}
+
+
+.position-box {
+    width: 130px;
+
+    padding: 10px;
+
+    color: white;
+
+    text-align: center;
+}
+
+
+
+
+.static-box {
+    position: static;
+
+    background-color: #64748b;
+}
+
+
+
+
+.relative-box {
+    position: relative;
+
+    left: 20px;
+
+    top: 10px;
+
+    background-color: #2563eb;
+}
+
+
+
+
+.absolute-box {
+    position: absolute;
+
+    right: 20px;
+
+    top: 50px;
+
+    background-color: #ea580c;
+}
+
+
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+
+.sizing-example {
+    font-size: 1.2rem;
+
+    width: 80%;
+
+    padding: 1em;
+}
+
+
+
+.float-left {
+    float: left;
+
+    width: 40%;
+
+    background-color: #0284c7;
+
+    color: white;
+
+    padding: 20px;
+
+    text-align: center;
+}
+
+
+.float-right {
+    float: right;
+
+    width: 40%;
+
+    background-color: #7c3aed;
+
+    color: white;
+
+    padding: 20px;
+
+    text-align: center;
+}
+
+
+
+
+.clear-float {
+    clear: both;
+
+    padding-top: 20px;
+}
+
+
+
+
+table {
+    width: 100%;
+
+    border-collapse: collapse;
+
+    margin-top: 15px;
+}
+
+
+td {
+    border: 2px solid #8b6b6b;
+
+    padding: 10px;
+
+    text-align: center;
+}
+
+
+th {
+    background-color: #0f4c81;
+
+    color: white;
+}
+
+
+
+form {
+    margin-top: 20px;
+}
+
+
+input {
+    padding: 8px;
+
+    margin-left: 10px;
+}
+
+
+
+
+button {
+    padding: 8px 16px;
+
+    margin: 5px;
+
+    cursor: pointer;
+}
